@@ -1,0 +1,6 @@
+{
+  "name": "Text to Speech Studio",
+  "description": "Convert text into lifelike speech with multiple voice styles, emotion presets, dialogue synthesis, and interactive audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
